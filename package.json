@@ -1,0 +1,7 @@
+{
+  "name": "happy-dom-insert-before-comment-issue",
+  "version": "0.0.0",
+  "dependencies": {
+    "@happy-dom/global-registrator": "^14.7.1"
+  }
+}
